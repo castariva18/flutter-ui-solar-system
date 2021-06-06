@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+## Screenshoot Apps (Development-Mode)
+<span align="center"><img width="180px" height="360px" src="https://github.com/castariva18/flutter-ui-solar-system/blob/master/assets/s1%20(1).jpg?raw=true"></span>
+<span align="center"><img width="180px" height="360px" src="https://github.com/castariva18/flutter-ui-solar-system/blob/master/assets/s1%20(2).jpg?raw=true"></span>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
